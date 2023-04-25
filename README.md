@@ -1,11 +1,10 @@
 # .netCore
-crud operations with ASP.NET using C# basics, database connections with mysql server, Linq
+### crud operations with ASP.NET using C# basics, database connections with mysql server, Linq
 
-
+<br>
 
 This is the first ASP.NET Core Web API application I tried.
-
-in this appication, I wanted to cover basics of writing APIs and use concepts in C# , .net and Linq
+From this appication, I wanted to cover basics of writing APIs and use concepts in C# , .net and Linq
 
 here are the things I tried to learn and apply here:
   - Basic CRUD with .net
